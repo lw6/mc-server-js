@@ -1,0 +1,19 @@
+{
+  "name": "mc-server-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw6/mc-server-js.git"
+  },
+  "author": "lw6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lw6/mc-server-js/issues"
+  },
+  "homepage": "https://github.com/lw6/mc-server-js#readme"
+}
